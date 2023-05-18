@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Gerador de Senha</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        .title-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            margin-bottom: 20px;
+        }
+
+        .title-container h1 {
+            text-align: center;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title-container">
+            <h1>Gerador de Senha</h1>
+            <h2 class="author">Feito por: <span id="author-name"></span></h2>
+        </div>
+        <label for="length">Tamanho:</label>
+        <input type="number" id="length" min="5" max="30">
+        <div class="options">
+            <label>
+                <input type="checkbox" id="uppercase" checked>
+                Maiúsculas
+            </label>
+            <label>
+                <input type="checkbox" id="lowercase" checked>
+                Minúsculas
+            </label>
+            <label>
+                <input type="checkbox" id="special" checked>
+                Caracteres Especiais
+            </label>
+        </div>
+        <button id="generate">Gerar Senha</button>
+        <div id="result"></div>
+        <button id="copy">Copiar Senha</button>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
