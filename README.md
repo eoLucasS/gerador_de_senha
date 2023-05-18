@@ -12,7 +12,7 @@
 
 Um repositório criado com o objetivo de fornecer uma aplicação web para gerar senhas seguras de forma rápida e fácil.
 
-- Portfólio: [https://gerador-de-senha-lucas.vercel.app](https://gerador-de-senha-lucas.vercel.app)
+- Preview: [https://gerador-de-senha-lucas.vercel.app](https://gerador-de-senha-lucas.vercel.app)
 
 ## 🚀 Linguagens
 
