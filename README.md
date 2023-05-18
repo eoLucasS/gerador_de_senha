@@ -1,18 +1,18 @@
 <h1 align="center">
-  Portfólio <img width="25px" src="https://cdn.discordapp.com/attachments/1049167666876776458/1049167722082226186/icon.png"/>
+  Gerador de Senha <img width="25px" src="https://cdn.discordapp.com/attachments/1049167666876776458/1049167722082226186/icon.png"/>
 </h1>
 
 <br>
 
-![Resultado final do projeto](https://cdn.discordapp.com/attachments/1049167666876776458/1066478047362035762/image.png)
+![Resultado final do projeto](https://cdn.discordapp.com/attachments/1104525551898734632/1108850917618491472/gera.png)
 
 <br>
 
 ## 📝 Descrição 
 
-Meu portfólio criado com o objetivo de mostrar meus projetos.
+Um repositório criado com o objetivo de fornecer uma aplicação web para gerar senhas seguras de forma rápida e fácil.
 
-- Portfólio: [https://portfolio-lucaslopes.vercel.app](https://portfolio-lucaslopes.vercel.app)
+- Portfólio: [https://gerador-de-senha-lucas.vercel.app](https://gerador-de-senha-lucas.vercel.app)
 
 ## 🚀 Linguagens
 
