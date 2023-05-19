@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1104525551898734632/1108949995266261092/geradordesenha.png" alt="Resultado final do projeto">
+  <img src="https://cdn.discordapp.com/attachments/1104525551898734632/1108950547425394798/teste.png" alt="Resultado final do projeto">
 </div>
 
 <br>
