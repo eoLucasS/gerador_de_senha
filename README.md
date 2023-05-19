@@ -4,7 +4,9 @@
 
 <br>
 
-![Resultado final do projeto](https://cdn.discordapp.com/attachments/1104525551898734632/1108850917618491472/gera.png)
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1104525551898734632/1108951164277502032/geradordesenha.png" alt="Resultado final do projeto">
+</div>
 
 <br>
 
