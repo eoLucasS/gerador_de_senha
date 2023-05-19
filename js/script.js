@@ -55,19 +55,3 @@ document.getElementById("generate").addEventListener("click", function () {
 document.getElementById("copy").addEventListener("click", function () {
   copyPassword();
 });
-
-// Bloqueia a remoção do autor
-window.addEventListener('load', function () {
-  var authorElement = document.querySelector('.author');
-  authorElement.addEventListener('DOMNodeRemoved', function (event) {
-    if (!document.contains(authorElement)) {
-      document.body.appendChild(authorElement);
-    }
-  });
-});
-
-var author = "Lucas Lopes";
-var authorLink = "https://github.com/eoLucasS";
-
-document.getElementById("author-name").textContent = author;
-document.getElementById("author-name").innerHTML = '<a href="' + authorLink + '" target="_blank">' + author + '</a>';
